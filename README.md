@@ -1,1 +1,1 @@
-# a repository for education rec sys models
+# A repository for rec sys models in education
