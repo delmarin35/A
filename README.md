@@ -1,3 +1,1 @@
-# a
-just a  repository
-hello, just testing...
+# a repository for education rec sys models
